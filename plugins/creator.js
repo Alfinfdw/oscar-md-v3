@@ -3,9 +3,9 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
-item.ORG: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
-item1.TEL;waid=6285716944311:6285716944311@s.whatsapp.net
+FN: ᴹᴿ᭄ AlGAnzOffcོ_1ঔৣ꧂
+item.ORG: ᴹᴿ᭄ AlGanzOffcོ_1ঔৣ꧂
+item1.TEL;waid=6282223011829:6282223011829@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
 item2.YOUTUBE;type=INTERNET: https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
 item2.X-ABLabel:YOUTUBE
